@@ -1,0 +1,15 @@
+
+[
+    {"id": 1, "name": "GIFT PEN SET", "price": 10.99, "img": "/img1.png"},
+    {"id": 2, "name": "COLOR PENCIL SET", "price": 12.99, "img": "/img2.png"},
+    {"id": 3, "name": "PEN & PENCIL SET", "price": 15.49, "img": "/img3.png"},
+    {"id": 4, "name": "NOTEBOOK SET", "price": 22.99, "img": "/img4.png"},
+    {"id": 5, "name": "REGULAR DAIRY", "price": 8.99, "img": "/img5.png"},
+    {"id": 6, "name": "JOURNALS & NOTEBOOKS", "price": 19.99, "img": "/img6.png"},
+    {"id": 7, "name": "DESK ORGANIZER", "price": 17.99, "img": "/img7.png"},
+    {"id": 8, "name": "DESK PLANTER ORGANIZER", "price": 25.49, "img": "/img8.png"},
+    {"id": 9, "name": "CASE STUDY NOTEBOOK", "price": 11.99, "img": "/img9.png"},
+    {"id": 10, "name": "Product 10", "price": 27.99, "img": "/img10.png"},
+    {"id": 11, "name": "JOURNALS & PLANNERS", "price": 14.49, "img": "/img11.png"},
+    {"id": 12, "name": "ACCESSORIES ORGANIZER", "price": 18.99, "img": "/img12.png"}
+]

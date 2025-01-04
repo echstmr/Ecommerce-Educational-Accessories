@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+  li{
+    @apply uppercase hover:text-[#003AAA] hover:underline;
+  }
+
+  .buttons{
+    @apply w-[100px] h-[30px] rounded-md bg-[#003AAA] hover:bg-[#0039aad2] text-white;
+  }
+}
